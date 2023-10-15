@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HelperStockBeta.WebUI.props" />
+</Project>
