@@ -6,22 +6,22 @@ using System.Threading.Tasks;
 
 namespace HelperStockBeta.Domain.Entities
 {
-    public  class Products
+    public sealed class Products
     {
-        public int Id { get; set; }
+        public int Id { get; private set; }
 
-        public string Name { get; set; }
+        public string Name { get;private set; }
 
-        public string Description { get; set; }
+        public string Description { get; private set; }
 
-        public decimal Price { get; set; }
+        public decimal Price { get; private set; }
 
-        public int Stock {  get; set; }
+        public int Stock {  get; private set; }
 
-        public string Image {  get; set; }
+        public string Image {  get; private set; }
 
-        public int CategoryId { get; set; }
+        public int CategoryId { get; private set; }
 
-        public Category Category { get; set; }
+        public Category Category { get; private set; }
     }
 }
