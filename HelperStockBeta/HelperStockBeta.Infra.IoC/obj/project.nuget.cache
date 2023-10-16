@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zt9IAhSIW+/coTy7OL8xApraJlYXdYLvm5UiPufPCsH4bxuel66IN8GRMCUSbqW8MJQbtNi5bOtRcJvM803LUA==",
+  "dgSpecHash": "YjOqEktIrabt/uZjFOrMFCQfSNqczVUlA+p6KQR2AF/BKAoRufe5eG33/SrrqIVCo0Yh+iefI74T9J2MYoGw3A==",
   "success": true,
-  "projectFilePath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
+  "projectFilePath": "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

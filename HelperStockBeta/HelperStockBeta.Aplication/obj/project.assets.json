@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj",
+      "projectUniqueName": "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj",
       "projectName": "HelperStockBeta.Aplication",
-      "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj",
+      "projectPath": "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj",
       "packagesPath": "C:\\Users\\Victor Icoma\\.nuget\\packages\\",
-      "outputPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Aplication\\obj\\",
+      "outputPath": "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-              "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+            "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+              "projectPath": "D:\\repositorios\\HelperStockBeta\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
             }
           }
         }
