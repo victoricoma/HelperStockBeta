@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace HelperStockBeta.Domain.Entities
 {
-    public sealed class Category
+    public sealed class Category : Entity
     {
-        public int Id { get; private set; }
         public string Name { get; private set; }
 
         private void ValidateDomain(string name)
@@ -33,6 +32,12 @@ namespace HelperStockBeta.Domain.Entities
             Id = id;
             ValidateDomain(name);
         }
+
+        public void Update(string name)
+        {
+            ValidateDomain(name);
+        }
+
         public ICollection<Products> Products { get; set; }
     }
 }
