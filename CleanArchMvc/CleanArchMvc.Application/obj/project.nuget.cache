@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kne4vMah9mHQY2OPNAJfxIeIm+3P0FYXS0AYnixzeqHuxd/VS2wYvP13Zpi6F3ezITYPHDXKHQIFbv9/8GAWQ==",
+  "success": true,
+  "projectFilePath": "D:\\repositórios\\HelperStockBeta\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

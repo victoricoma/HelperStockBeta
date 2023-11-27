@@ -1,0 +1,12 @@
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\ref\CleanArchMvc.Domain.dll
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfo.cs
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll
+D:\_migra_clean_arch\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
